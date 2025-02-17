@@ -40,4 +40,15 @@ background-color: lightblue;
 }
 .computer{
     background-image: url(../img2/monitor.jpg);
+    color: white;
+    height: 200px;
+    background-repeat: no-repeat;
+    
+}
+.graph{
+    background-image: url(../img2/graph.jpg);
+    color: white;
+    height: 200px;
+    background-repeat: no-repeat;
+    
 }
