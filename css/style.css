@@ -14,3 +14,16 @@ background-color: lightblue;
 .logo{
     height: 100%;
 }
+
+.blu{
+    color: blue;
+}
+
+.grigio{
+    color:lightgray;
+}
+
+.margin{
+    
+    margin: 20px;
+}
